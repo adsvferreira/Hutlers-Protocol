@@ -1,0 +1,20 @@
+{
+  "contracts": {
+    "FerreraToken": "5f248bcbbe1ab4e37b9caa57eeb97308efee5c4c",
+    "MockDAI": "80f6952748bb0b4dad0fafc96420422a7300bf1e",
+    "MockV3Aggregator": "ec69d3d4517b4bbc5b769352d75a8866a5f6069e",
+    "MockWETH": "6d6e5c08c81e483ad4f4abb5e19f06b8ad6f76b8",
+    "OpenZeppelin/openzeppelin-contracts@4.4.1/ERC20": "05b44f80e08900a7aa6bf3a608b9deb527af43d3",
+    "TokenFarm": "5b3bcda932f101fb4bf46919e4b62e315d37176d"
+  },
+  "tests": {
+    "tests/unit/test_token_farm.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "s.",
+      "sha1": "af8823f36e3238f0659f6609d7b323ae4e51d8de",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
